@@ -1,5 +1,15 @@
+/**
+ * Package de Gillot-Roux.
+ */
 package com.gillotroux;
-
+/**
+ * Printer.
+ * @author Lockolocko
+ *
+ */
 public interface Printer {
-	void print();
+    /**
+     * Print.
+     */
+    void print();
 }

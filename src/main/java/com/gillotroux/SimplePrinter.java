@@ -1,8 +1,17 @@
+/**
+ * Package de Gillot-Roux.
+ */
 package com.gillotroux;
-
-public class SimplePrinter implements Printer{
-	public void print(){
-		System.out.println("Simple Printer");
-	}
-
+/**
+ * SimplePrinter.
+ * @author Lockolocko
+ *
+ */
+public class SimplePrinter implements Printer {
+    /**
+     * Gère le print.
+     */
+    public void print() {
+        System.out.println("Simple Printer");
+    }
 }

@@ -1,5 +1,15 @@
+/**
+ * Package de Gillot-Roux.
+ */
 package com.gillotroux;
-
+/**
+ * Copyer.
+ * @author Lockolocko
+ *
+ */
 public interface Copyer {
-	public void copy();
+    /**
+     * Copy.
+     */
+    void copy();
 }

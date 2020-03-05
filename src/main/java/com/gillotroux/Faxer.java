@@ -1,5 +1,15 @@
+/**
+ * Package de Gillot-Roux.
+ */
 package com.gillotroux;
-
+/**
+ * Faxer.
+ * @author Lockolocko
+ *
+ */
 public interface Faxer {
-	public void fax();
+    /**
+     * Fax.
+     */
+    void fax();
 }

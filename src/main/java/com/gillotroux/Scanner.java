@@ -1,5 +1,15 @@
+/**
+ * Package de Gillot-Roux.
+ */
 package com.gillotroux;
-
+/**
+ * Scanner.
+ * @author Lockolocko
+ *
+ */
 public interface Scanner {
-	public void scan();
+    /**
+     * Scan.
+     */
+    void scan();
 }
